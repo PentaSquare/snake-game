@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "server",
+  "dolt_database": "snake",
+  "project_id": "b5d048cb-3464-4938-8bb0-579de9099a63"
+}

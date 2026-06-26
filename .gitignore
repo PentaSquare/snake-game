@@ -3,3 +3,7 @@
 .dolt/
 *.db
 .beads-credential-key
+
+# Local tooling / logs
+.mission-control/
+server.log
